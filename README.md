@@ -37,4 +37,4 @@ ox3.py uses something closer to Zaks' algorithm:
 
 The program then picks the square with the highest weighting number for its move. It also prints out its scoring array and thinking about threats and possible winning squares, so you can follow how it has made its choice.
 
-It's not very imaginative, there's no random element and if there are multiple squares with the same high weigting score, it will always pick the first square suggested by the alogorithm.
+It's not very imaginative, there's no random element and if there are multiple squares with the same high weigting score, it will always pick the first square suggested by the algorithm.
