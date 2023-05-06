@@ -38,3 +38,11 @@ ox3.py uses something closer to Zaks' algorithm:
 The program then picks the square with the highest weighting number for its move. It also prints out its scoring array and thinking about threats and possible winning squares, so you can follow how it has made its choice.
 
 It's not very imaginative, there's no random element and if there are multiple squares with the same high weigting score, it will always pick the first square suggested by the algorithm.
+
+## ox-microbit-main.py
+
+This is a version for the BBC micro:bit which you can play using the serial console in the online Python Editor https://python.microbit.org/
+
+It even works in the simulator.
+
+It shows a graphical version of the board on the micro:bit's LED display. Bright LEDs are human player O and dim LEDs are computer player X.
