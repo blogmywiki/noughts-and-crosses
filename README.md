@@ -2,6 +2,10 @@
 
 Inspired by reading Rodnay Zaks' 1980 book '6502 Games', I thought I'd have a go at coding some simple noughts and crosses ('tic tac toe') games in Python, as I don't think I've ever done this simple thing before.
 
+There are doubtless much more elegant and compact ways of coding this, I just did this for a bit of fun and relaxation, and I think I've made three incrementally clever versions which a student could follow and improve upon.
+
+## How to play
+
 In all versions, you make your move by entering the square number:
 ```
 012
