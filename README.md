@@ -17,7 +17,7 @@ ox.py is just a game for 2 human players, so I could set up a simple user interf
 
 
 
-## ox2.py
+## Then ox2.py
 
 ox2.py is a game you play against the computer, but the human always goes first and the computer just picks the first free square, so it's super easy to beat.
 
