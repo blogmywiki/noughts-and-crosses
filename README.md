@@ -46,3 +46,16 @@ This is a version for the BBC micro:bit which you can play using the serial cons
 It even works in the simulator.
 
 It shows a graphical version of the board on the micro:bit's LED display. Bright LEDs are human player O and dim LEDs are computer player X.
+
+
+## ox-microbit-sc.py 
+
+This is a self-contained micro:bit version, that you can play on a micro:bit that's not connected to a computer's serial console. It works best with a headphones or speaker attached so you can hear the speech instructions and who wins. Not tested on a micro:bit V1 yet. 
+
+Press A to go first, B for micro:bit to go first.
+
+Press B to step through possible play squares which blink.
+
+Press A to choose a square to play.
+
+Press reset button on back of the micro:bit to play a new game.
