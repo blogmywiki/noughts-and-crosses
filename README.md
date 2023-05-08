@@ -50,7 +50,9 @@ It shows a graphical version of the board on the micro:bit's LED display. Bright
 
 ## ox-microbit-sc.py 
 
-This is a self-contained micro:bit version, that you can play on a micro:bit that's not connected to a computer's serial console. It works best with a headphones or speaker attached so you can hear the speech instructions and who wins. Not tested on a micro:bit V1 yet. 
+This is a self-contained micro:bit version, that you can play on a micro:bit that's not connected to a computer's serial console. It works best with a headphones or speaker attached so you can hear the speech instructions and who wins.
+
+This version only works on a micro:bit V2 with built-in speaker which has more memory.
 
 Press A to go first, B for micro:bit to go first.
 
